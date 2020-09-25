@@ -1,0 +1,79 @@
+---
+#Base installation for reddit app in mindbox-demo namespace
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: reddit-app-deploy
+  namespace: mindbox-demo
+  labels:
+    app: reddit-app
+spec:
+  replicas: 4
+  # revision history of this deployment to keep
+  revisionHistoryLimit: 2
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      # specifies the maximum number of Pods that can be unavailable during the update
+      maxUnavailable: 25%
+      # specifies the maximum number of Pods that can be created above the desired number of Pods
+      maxSurge: 200%
+  template:
+    metadata:
+      labels:
+        app: reddit-app
+    spec:
+      affinity:
+        podAntiAffinity:
+          preferredDuringSchedulingIgnoredDuringExecution:
+          - weight: 100
+            podAffinityTerm:
+              topologyKey: "kubernetes.io/hostname"
+              labelSelector:
+                matchExpressions:
+                - key: app
+                  operator: In
+                  values:
+                  - reddit-app
+      restartPolicy: Always
+      containers:
+      - image: #Use image
+        name: #image name
+        resources:
+          requests:
+            memory: "128Mi"
+            cpu: "1"
+          limits:
+            memory: "256Mi"
+            cpu: "2"
+---
+#Define Service
+apiVersion: v1
+kind: Service
+metadata:
+  annotations:
+  name: reddit-mindbox-service
+  namespace: mindbox-demo
+  zone: #define zone
+spec:
+  ports:
+    - port: 80
+      targetPort: 80
+      protocol: TCP
+  selector:
+    app: reddit-app
+  
+  sessionAffinity: None
+  type: NodePort
+---
+#Protect at least one pod with reddit-app
+apiVersion: policy/v1beta1
+kind: PodDisruptionBudget
+metadata:
+  name: reddit-app-pdb
+  namespace: mindbox-app
+spec:
+  minAvailable: 1
+  selector:
+    matchLabels:
+      app: reddit-app
