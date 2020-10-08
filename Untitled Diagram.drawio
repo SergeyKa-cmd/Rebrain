@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T19:31:08.611Z" agent="5.0 (X11)" etag="GUQIrGxQMcp-xdCtz9nv" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T19:46:04.585Z" agent="5.0 (X11)" etag="0EfpHf-WE5x_LHiNADoX" version="13.7.9" type="github">
   <diagram id="87G2VPsp4BeBKnsz9VbN" name="Page-1">
     <mxGraphModel dx="1483" dy="1948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TxO9V5oW2vxMfPf_QTzL-4" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-80" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="TxO9V5oW2vxMfPf_QTzL-10" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="20" y="30" width="150" height="210" as="geometry" />
         </mxCell>
@@ -70,7 +67,7 @@
         <mxCell id="TxO9V5oW2vxMfPf_QTzL-28" value="App 1-39" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TxO9V5oW2vxMfPf_QTzL-26">
           <mxGeometry x="70" y="16.19095238095238" width="65.38" height="32.38095238095238" as="geometry" />
         </mxCell>
-        <mxCell id="TxO9V5oW2vxMfPf_QTzL-29" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Services:&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;openssh-server&lt;/li&gt;&lt;li&gt;sudo user&lt;/li&gt;&lt;li&gt;repository pkg&lt;/li&gt;&lt;li&gt;node-exporter&lt;/li&gt;&lt;li&gt;nginx+ssl&lt;/li&gt;&lt;li&gt;nginx-vts-exporter&lt;/li&gt;&lt;li&gt;php5.6&lt;/li&gt;&lt;li&gt;php-mods&lt;/li&gt;&lt;li&gt;git&lt;/li&gt;&lt;li&gt;rsync&lt;/li&gt;&lt;li&gt;python-pip&lt;/li&gt;&lt;li&gt;s3cmd&lt;/li&gt;&lt;li&gt;haproxy-exporter&lt;/li&gt;&lt;li&gt;haproxy-1.8&lt;/li&gt;&lt;li&gt;socat&lt;/li&gt;&lt;li&gt;mysql-client&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TxO9V5oW2vxMfPf_QTzL-26">
+        <mxCell id="TxO9V5oW2vxMfPf_QTzL-29" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Services:&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;openssh-server&lt;/li&gt;&lt;li&gt;sudo user&lt;/li&gt;&lt;li&gt;repository pkg&lt;/li&gt;&lt;li&gt;node-exporter&lt;/li&gt;&lt;li&gt;php5.6&lt;/li&gt;&lt;li&gt;php-mods&lt;/li&gt;&lt;li&gt;git&lt;/li&gt;&lt;li&gt;rsync&lt;/li&gt;&lt;li&gt;python-pip&lt;/li&gt;&lt;li&gt;s3cmd&lt;/li&gt;&lt;li&gt;haproxy-exporter&lt;/li&gt;&lt;li&gt;haproxy-1.8&lt;/li&gt;&lt;li&gt;socat&lt;/li&gt;&lt;li&gt;mysql-client&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TxO9V5oW2vxMfPf_QTzL-26">
           <mxGeometry y="97.14285714285714" width="160" height="210.47619047619048" as="geometry" />
         </mxCell>
         <mxCell id="TxO9V5oW2vxMfPf_QTzL-31" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/CustomDomain.svg;" vertex="1" parent="TxO9V5oW2vxMfPf_QTzL-26">
@@ -91,7 +88,7 @@
         <mxCell id="TxO9V5oW2vxMfPf_QTzL-37" value="App-dev" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TxO9V5oW2vxMfPf_QTzL-35">
           <mxGeometry x="70" y="20.000952380952377" width="65.38" height="32.38095238095238" as="geometry" />
         </mxCell>
-        <mxCell id="TxO9V5oW2vxMfPf_QTzL-38" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Services:&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;openssh-server&lt;/li&gt;&lt;li&gt;sudo user&lt;/li&gt;&lt;li&gt;repository pkg&lt;/li&gt;&lt;li&gt;node-exporter&lt;/li&gt;&lt;li&gt;nginx+ssl&lt;/li&gt;&lt;li&gt;nginx-vts-exporter&lt;/li&gt;&lt;li&gt;php5.6&lt;/li&gt;&lt;li&gt;php-mods&lt;/li&gt;&lt;li&gt;git&lt;/li&gt;&lt;li&gt;rsync&lt;/li&gt;&lt;li&gt;python-pip&lt;/li&gt;&lt;li&gt;s3cmd&lt;/li&gt;&lt;li&gt;haproxy-exporter&lt;/li&gt;&lt;li&gt;haproxy-1.8&lt;/li&gt;&lt;li&gt;socat&lt;/li&gt;&lt;li&gt;mysql-client&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TxO9V5oW2vxMfPf_QTzL-35">
+        <mxCell id="TxO9V5oW2vxMfPf_QTzL-38" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Services:&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;openssh-server&lt;/li&gt;&lt;li&gt;sudo user&lt;/li&gt;&lt;li&gt;repository pkg&lt;/li&gt;&lt;li&gt;node-exporter&lt;/li&gt;&lt;li&gt;php5.6&lt;/li&gt;&lt;li&gt;php-mods&lt;/li&gt;&lt;li&gt;git&lt;/li&gt;&lt;li&gt;rsync&lt;/li&gt;&lt;li&gt;python-pip&lt;/li&gt;&lt;li&gt;s3cmd&lt;/li&gt;&lt;li&gt;haproxy-exporter&lt;/li&gt;&lt;li&gt;haproxy-1.8&lt;/li&gt;&lt;li&gt;socat&lt;/li&gt;&lt;li&gt;mysql-client&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TxO9V5oW2vxMfPf_QTzL-35">
           <mxGeometry y="97.14285714285714" width="160" height="210.47619047619048" as="geometry" />
         </mxCell>
         <mxCell id="TxO9V5oW2vxMfPf_QTzL-39" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/CustomDomain.svg;" vertex="1" parent="TxO9V5oW2vxMfPf_QTzL-35">
@@ -106,26 +103,26 @@
         <mxCell id="TxO9V5oW2vxMfPf_QTzL-42" value="App-qa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TxO9V5oW2vxMfPf_QTzL-40">
           <mxGeometry x="70" y="15.38095238095238" width="65.38" height="32.38095238095238" as="geometry" />
         </mxCell>
-        <mxCell id="TxO9V5oW2vxMfPf_QTzL-43" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Services:&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;openssh-server&lt;/li&gt;&lt;li&gt;sudo user&lt;/li&gt;&lt;li&gt;repository pkg&lt;/li&gt;&lt;li&gt;node-exporter&lt;/li&gt;&lt;li&gt;nginx+ssl&lt;/li&gt;&lt;li&gt;nginx-vts-exporter&lt;/li&gt;&lt;li&gt;php5.6&lt;/li&gt;&lt;li&gt;php-mods&lt;/li&gt;&lt;li&gt;git&lt;/li&gt;&lt;li&gt;rsync&lt;/li&gt;&lt;li&gt;python-pip&lt;/li&gt;&lt;li&gt;s3cmd&lt;/li&gt;&lt;li&gt;haproxy-exporter&lt;/li&gt;&lt;li&gt;haproxy-1.8&lt;/li&gt;&lt;li&gt;socat&lt;/li&gt;&lt;li&gt;mysql-client&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TxO9V5oW2vxMfPf_QTzL-40">
+        <mxCell id="TxO9V5oW2vxMfPf_QTzL-43" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Services:&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;openssh-server&lt;/li&gt;&lt;li&gt;sudo user&lt;/li&gt;&lt;li&gt;repository pkg&lt;/li&gt;&lt;li&gt;node-exporter&lt;/li&gt;&lt;li&gt;php5.6&lt;/li&gt;&lt;li&gt;php-mods&lt;/li&gt;&lt;li&gt;git&lt;/li&gt;&lt;li&gt;rsync&lt;/li&gt;&lt;li&gt;python-pip&lt;/li&gt;&lt;li&gt;s3cmd&lt;/li&gt;&lt;li&gt;haproxy-exporter&lt;/li&gt;&lt;li&gt;haproxy-1.8&lt;/li&gt;&lt;li&gt;socat&lt;/li&gt;&lt;li&gt;mysql-client&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TxO9V5oW2vxMfPf_QTzL-40">
           <mxGeometry y="97.14285714285714" width="160" height="210.47619047619048" as="geometry" />
         </mxCell>
         <mxCell id="TxO9V5oW2vxMfPf_QTzL-44" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/CustomDomain.svg;" vertex="1" parent="TxO9V5oW2vxMfPf_QTzL-40">
           <mxGeometry x="10" y="14.571428571428571" width="40.47619047619048" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="TxO9V5oW2vxMfPf_QTzL-47" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="600" y="400" width="160" height="340" as="geometry" />
+        <mxCell id="TxO9V5oW2vxMfPf_QTzL-53" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="610" y="400" width="160" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="TxO9V5oW2vxMfPf_QTzL-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TxO9V5oW2vxMfPf_QTzL-47">
-          <mxGeometry width="160" height="340" as="geometry" />
+        <mxCell id="TxO9V5oW2vxMfPf_QTzL-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TxO9V5oW2vxMfPf_QTzL-53">
+          <mxGeometry width="160" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="TxO9V5oW2vxMfPf_QTzL-49" value="App-lb.dev" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TxO9V5oW2vxMfPf_QTzL-47">
-          <mxGeometry x="70" y="16.62" width="80" height="32.38" as="geometry" />
+        <mxCell id="TxO9V5oW2vxMfPf_QTzL-55" value="App-lb.dev" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TxO9V5oW2vxMfPf_QTzL-53">
+          <mxGeometry x="70" y="20" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TxO9V5oW2vxMfPf_QTzL-50" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Services:&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;openssh-server&lt;/li&gt;&lt;li&gt;sudo user&lt;/li&gt;&lt;li&gt;repository pkg&lt;/li&gt;&lt;li&gt;node-exporter&lt;/li&gt;&lt;li&gt;nginx+ssl&lt;/li&gt;&lt;li&gt;nginx-vts-exporter&lt;/li&gt;&lt;li&gt;php5.6&lt;/li&gt;&lt;li&gt;php-mods&lt;/li&gt;&lt;li&gt;git&lt;/li&gt;&lt;li&gt;rsync&lt;/li&gt;&lt;li&gt;python-pip&lt;/li&gt;&lt;li&gt;s3cmd&lt;/li&gt;&lt;li&gt;haproxy-exporter&lt;/li&gt;&lt;li&gt;haproxy-1.8&lt;/li&gt;&lt;li&gt;socat&lt;/li&gt;&lt;li&gt;mysql-client&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TxO9V5oW2vxMfPf_QTzL-47">
-          <mxGeometry y="97.14285714285714" width="160" height="210.47619047619048" as="geometry" />
+        <mxCell id="TxO9V5oW2vxMfPf_QTzL-56" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Services:&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;openssh-server&lt;/li&gt;&lt;li&gt;sudo user&lt;/li&gt;&lt;li&gt;repository pkg&lt;/li&gt;&lt;li&gt;node-exporter&lt;/li&gt;&lt;li&gt;nginx+ssl&lt;/li&gt;&lt;li&gt;nginx-vts-exporter&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TxO9V5oW2vxMfPf_QTzL-53">
+          <mxGeometry y="60" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="TxO9V5oW2vxMfPf_QTzL-52" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Analysis_Services.svg;" vertex="1" parent="TxO9V5oW2vxMfPf_QTzL-47">
-          <mxGeometry x="10.003846153846098" y="10" width="50" height="39" as="geometry" />
+        <mxCell id="TxO9V5oW2vxMfPf_QTzL-57" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Analysis_Services.svg;" vertex="1" parent="TxO9V5oW2vxMfPf_QTzL-53">
+          <mxGeometry x="6.153846153846154" y="10.5" width="50" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
