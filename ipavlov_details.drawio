@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-10-11T13:39:08.386Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="UKuFyjqDfD-rAb_qwuOl" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-11T13:40:28.550Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="3Gi67EdtWx7ScVragAD3" version="14.8.4" type="github">
   <diagram id="WyKtJ8pqu3-vqGx0_H4G" name="Page-1">
-    <mxGraphModel dx="1709" dy="1140" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1407" dy="939" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nRd-P1skXtSTZNvALNRh-33" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="10" y="80" width="160" height="250" as="geometry" />
+          <mxGeometry x="5" y="177" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-6" value="test-iva.mipt.ru" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="nRd-P1skXtSTZNvALNRh-33">
           <mxGeometry y="70" width="160" height="100" as="geometry">
@@ -40,7 +40,7 @@
           <mxGeometry x="66.1" y="203.96000000000004" width="46" height="42.08" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-46" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="180" y="80" width="160" height="250" as="geometry" />
+          <mxGeometry x="175" y="177" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-35" value="emc-mipt.ru" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="nRd-P1skXtSTZNvALNRh-46">
           <mxGeometry y="70" width="160" height="100" as="geometry">
@@ -66,7 +66,7 @@
           <mxGeometry x="10" y="175" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-69" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="350" y="80" width="160" height="250" as="geometry" />
+          <mxGeometry x="345" y="177" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-62" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.network_card;" vertex="1" parent="nRd-P1skXtSTZNvALNRh-69">
           <mxGeometry x="61" width="38" height="40" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="7" y="215" width="32.5" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-70" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="520" y="80" width="160" height="250" as="geometry" />
+          <mxGeometry x="515" y="177" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-82" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.network_card;" vertex="1" parent="nRd-P1skXtSTZNvALNRh-70">
           <mxGeometry x="61" width="38" height="40" as="geometry" />
@@ -154,7 +154,7 @@
           <mxGeometry x="61" y="203.96000000000004" width="46" height="42.08" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-101" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="690" y="80" width="160" height="250" as="geometry" />
+          <mxGeometry x="685" y="177" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-89" value="ai-bdu.mipt.ru" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="nRd-P1skXtSTZNvALNRh-101">
           <mxGeometry y="70" width="160" height="100" as="geometry">
@@ -186,7 +186,7 @@
           <mxGeometry x="64.89999999999998" y="174" width="72.1" height="35.24" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-170" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="180" y="350" width="160" height="250" as="geometry" />
+          <mxGeometry x="175" y="447" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-171" value="shvabe-cloud.mipt.ru" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="nRd-P1skXtSTZNvALNRh-170">
           <mxGeometry y="70" width="160" height="100" as="geometry">
@@ -218,7 +218,7 @@
           <mxGeometry x="70" y="172.66" width="52.62" height="37.34" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-282" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="10" y="350" width="160" height="250" as="geometry" />
+          <mxGeometry x="5" y="447" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-160" value="shvabe-ml-1.mipt.ru(theseus)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="nRd-P1skXtSTZNvALNRh-282">
           <mxGeometry y="70" width="160" height="100" as="geometry">
@@ -253,7 +253,7 @@
           <mxGeometry x="11" y="215" width="32.5" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-283" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="350" y="350" width="160" height="250" as="geometry" />
+          <mxGeometry x="345" y="447" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-183" value="shvabe-ms1.mipt.ru" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="nRd-P1skXtSTZNvALNRh-283">
           <mxGeometry y="70" width="160" height="100" as="geometry">
@@ -279,7 +279,7 @@
           <mxGeometry x="7" y="174" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-284" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="520" y="350" width="160" height="250" as="geometry" />
+          <mxGeometry x="515" y="447" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-285" value="shvabe-ms1-prod.mipt.ru" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="nRd-P1skXtSTZNvALNRh-284">
           <mxGeometry y="70" width="160" height="100" as="geometry">
@@ -305,7 +305,7 @@
           <mxGeometry x="7" y="174" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-295" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="690" y="350" width="160" height="250.20000000000005" as="geometry" />
+          <mxGeometry x="685" y="447" width="160" height="250.20000000000005" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-206" value="" style="group" vertex="1" connectable="0" parent="nRd-P1skXtSTZNvALNRh-295">
           <mxGeometry width="160" height="250.2" as="geometry" />
@@ -346,7 +346,7 @@
           <mxGeometry x="60" y="180" width="49" height="14.74" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-296" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="180" y="630" width="160" height="250" as="geometry" />
+          <mxGeometry x="175" y="727" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-297" value="shvabe-backend-metal" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="nRd-P1skXtSTZNvALNRh-296">
           <mxGeometry y="70" width="160" height="100" as="geometry">
@@ -375,7 +375,7 @@
           <mxGeometry x="10" y="217.5" width="32.5" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-317" value="" style="group;align=right;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="350" y="630" width="160" height="250" as="geometry" />
+          <mxGeometry x="345" y="727" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-318" value="cdss-neuro-imager" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="nRd-P1skXtSTZNvALNRh-317">
           <mxGeometry y="70" width="160" height="100" as="geometry">
@@ -407,7 +407,7 @@
           <mxGeometry x="11" y="217.5" width="32.5" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-325" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="10" y="630" width="160" height="250" as="geometry" />
+          <mxGeometry x="5" y="727" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-326" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.network_card;" vertex="1" parent="nRd-P1skXtSTZNvALNRh-325">
           <mxGeometry x="61" width="38" height="40" as="geometry" />
@@ -448,7 +448,7 @@
           <mxGeometry x="7" y="215" width="32.5" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-343" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="520" y="630" width="160" height="250" as="geometry" />
+          <mxGeometry x="515" y="727" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-344" value="shvabe-ai-intent-classifier" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="nRd-P1skXtSTZNvALNRh-343">
           <mxGeometry y="70" width="160" height="100" as="geometry">
@@ -469,6 +469,9 @@
         </mxCell>
         <mxCell id="nRd-P1skXtSTZNvALNRh-349" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.vm_linux;" vertex="1" parent="nRd-P1skXtSTZNvALNRh-343">
           <mxGeometry x="10" width="46" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRd-P1skXtSTZNvALNRh-352" value="&lt;font color=&quot;#000000&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;Пул ресурсов iPavlov&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#7F00FF;" vertex="1" parent="1">
+          <mxGeometry x="263" y="15" width="344" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
